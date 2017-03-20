@@ -1,0 +1,30 @@
+
+head{
+    text-align: center;
+}
+body {
+    background-color: lightblue;
+}
+li{
+    text-align: justify;
+}
+h3 {
+    color: black;
+    text-align: center;
+    font-family: arial
+}
+img{
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: auto;
+}
+p {
+    font-family: verdana;
+    font-size: 12px;
+    display: block;
+    text-align: center;
+}
+footer {
+    font-size: 10px
+}
